@@ -1,0 +1,31 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+hr {
+    max-width: 200px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.container {
+    font-size: 24px;
+    border: solid rgb(30, 3, 126) 5px;
+    border-radius: 50px;
+    background-color: cadetblue;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+
+.features {
+    list-style-type: none;
+}
